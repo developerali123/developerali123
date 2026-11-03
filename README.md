@@ -27,7 +27,7 @@ Building scalable enterprise applications, SaaS platforms and cloud-native solut
 
 ## 🌐 Portfolio
 
-🔗 https://developerali123.github.io/ali-portfolio.github.io/
+🔗 [https://developerali123.github.io/ali-portfolio.github.io/](https://ali-portfolio-murex.vercel.app/)
 
 ---
 
